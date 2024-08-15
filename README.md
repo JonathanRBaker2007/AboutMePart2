@@ -2,12 +2,11 @@
 <b> I am 17 years old and I go to Castle High School and SICTC</b>
 
 ## Work Experience
-
--The Fresh Market
-  -August 2024 - Present
-  -Maintain positive attitude with customers
-  -Provide great customer service
-  -Get customers through as quickly as possible
+- The Fresh Market
+  - August 2024 - Present
+  - Maintain positive attitude with customers
+  - Provide great customer service
+  - Get customers through as quickly as possible
 
 ## Education
 
