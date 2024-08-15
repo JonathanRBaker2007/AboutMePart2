@@ -32,7 +32,6 @@
     - Load Carts
     - Load Groceries into Cars
 
-## Programming Skills
 |Programming Languages|
 |---|
 |C#|
@@ -45,12 +44,14 @@
 |C#|
 |C++|
 <br>
+
 |Classes|
 |---|
 |CS 1|
 |Computer Science Software Development|
 |Nextech Catapult|
 <br>
+
 |Hobbies|
 |---|
 |Unity- Multiplayer/Local Games|
