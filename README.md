@@ -42,8 +42,8 @@
 |HTML|
 |CSS|
 |JS|
-|C#|
 |C++|
+|SQL|
 <br>
 
 |Classes|
