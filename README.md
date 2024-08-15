@@ -33,19 +33,29 @@
     - Load Groceries into Cars
 
 ## Programming Skills
-|Programming Languages|Classes|Hobbies|
-|---|---|---|
-|C#|CS 1|Unity- Multiplayer/Local Games|
-|VB|Computer Science Software Development|Microsoft Visual Studio- 2D games and Projects|
-|Python|Nextech Catapult|Boomerang Learning- AI learning website|
+|Programming Languages|Hobbies|
+|---|
+|C#|
+|VB|
+|Python|
 |Java|
 |HTML|
 |CSS|
 |JS|
 |C#|
 |C++|
-
-
+<br>
+|Classes|
+|---|
+|CS 1|
+|Computer Science Software Development|
+|Nextech Catapult|
+<br>
+|Hobbies|
+|---|
+|Unity- Multiplayer/Local Games|
+|Microsoft Visual Studio- 2D games and Projects|
+|Boomerang Learning- AI learning website|
 
 ## Scripting Example
 ### 2D Olayer Controller
