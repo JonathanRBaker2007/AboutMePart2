@@ -33,7 +33,7 @@
     - Load Groceries into Cars
 
 ## Programming Skills
-|Programming Languages|Hobbies|
+|Programming Languages|
 |---|
 |C#|
 |VB|
