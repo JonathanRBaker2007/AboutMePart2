@@ -85,7 +85,7 @@
 
 ## My Person of Influence
 <kbd>
-<img src = "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982181284/elon-musk-9781982181284_hr.jpg" height = "500px">
+<img src = "https://electrek.co/wp-content/uploads/sites/3/2024/05/Elon-Musk-wrecking-ball.jpg?quality=82&strip=all" height = "500px">
 </kbd>
 
 > *"We need things in life that are exciting and inspiring"* <br> *- Elon Musk* <br>
